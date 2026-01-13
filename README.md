@@ -1,4 +1,4 @@
-# **Adaptive pricing in imperfect competitive markets: a reinforcement learning approach**
+# **Adaptive Pricing in Imperfect Competitive Markets: A Reinforcement Learning Approach**
 ### **Authors:** Chiara Pizzetti, Karina Trelles
 
 ## **Project overview**
