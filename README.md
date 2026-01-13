@@ -15,7 +15,7 @@ The simulation includes:
 - **Reward**: Calculated as the total profit: `Profit = (Price - Cost) * Demand`.
 - **Demand Model**: `Demand = a - b * own_price + c * (competitor_price - own_price)`.
 
-## **Algorithms Implemented**##
+## **Algorithms Implemented** ##
 ### **1.Independent Q-learning** ###
 In this approach, each agent maintains its own Q-table. Agents learn to find the optimal price index by interacting with the environment simultaneously using an epsilon-greedy strategy for exploration.
 ### **2.Deep Q-Network** ###
