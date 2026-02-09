@@ -1,7 +1,7 @@
 # **Adaptive Pricing in Imperfect Competitive Markets: A Reinforcement Learning Approach**
 ### *Authors: Chiara Pizzetti, Karina Trelles*
 
-## **Project overview**
+## **Project Overview**
 This project simulates a duopoly market where two competing agents (sellers of coffee capsules) aim to maximize their profits by dynamically adjusting their prices. We explore and compare two different Reinforcement Learning approaches:
 1. **Independent Q-learning**
 2. **Deep Q-Networks (DQN)**
